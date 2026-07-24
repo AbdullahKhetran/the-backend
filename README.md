@@ -1,0 +1,1 @@
+Covers code of videos 1-6 of [Chai aur JavaScript Backend](https://youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW&si=M3GgC8BNRmkjRpAv) playlist
